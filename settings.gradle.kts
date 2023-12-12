@@ -1,4 +1,4 @@
-rootProject.name = "AlisonTestProject"
+rootProject.name = "MyBirdApp"
 enableFeaturePreview("TYPESAFE_PROJECT_ACCESSORS")
 
 pluginManagement {
